@@ -49,14 +49,14 @@
 
     <main class="principal">
             <div class="code">
-                    <i class="fas fa-code"></i>
-                </div>
-                <div class="primer-nivel">
-                    <div class="segundo-nivel o1">
-                        <div class="titulo">
-                            <h2>WEB</h2>
-                        </div>
+                <i class="fas fa-code"></i>
+            </div>
+            <div class="primer-nivel">
+                <div class="segundo-nivel o1">
+                    <div class="titulo">
+                        <h2>WEB</h2>
                     </div>
+                </div>
                     <div class="segundo-nivel-two o2">
                         <div class="web-tecs">
                             <div class="servicio">
@@ -72,9 +72,6 @@
                                 <div class="js">
                                     <i class="fab fa-js"></i>
                                 </div>
-                            <div class="php">
-                                <i class="fab fa-php"></i>
-                            </div>
                             <div class="info">
                                 <h3>Páginas y Sitios Web con las Tecnologias más importantes</h3>
                                 <p>La web hoy en día es el sitio mas importante del mundo, y todos tenemos que tener presencia ahí, y la mejor alternativa es una web moderna.

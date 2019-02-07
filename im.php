@@ -6,7 +6,7 @@
     <div class="info-personal">
         Hola, mi nombre es Acxel Morales.<br>
         Soy Técnico en Programación, y un apasionado de la tecnologia.<br>
-        Me fasina aprender lenguajes de programación y framworks o librerias de JavaScript, PHP y Java
+        Me fasina aprender lenguajes de programación y framworks o librerias de JavaScript y Java
     </div>
 </div>
 

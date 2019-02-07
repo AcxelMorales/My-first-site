@@ -1,0 +1,91 @@
+@media only screen and (max-width: 768px) {
+    .info-modal {
+        width: 100%;
+    }
+
+    .profesion {
+        font-size: 2.1em;
+        text-align: center;
+    }
+
+    .mail,
+    .tel {
+        margin-top: 2em;
+        padding-left: 1.5em;
+    }
+
+    .mail i,
+    .mail span,
+    .tel i,
+    .tel span {
+        color: wheat;
+        font-size: 2em;
+        animation: opacidad 4s;
+    }
+
+    .mail i,
+    .tel i {
+        display: block;
+        margin: 0 .5em 0 .5em;
+        font-size: 1.8em;
+    }
+
+    .tel i {
+        margin-bottom: .5em;
+    }
+
+    main.principal {
+        position: static;
+    }
+
+    .java,
+    .code {
+        display: none;
+    }
+
+    div.segundo-nivel {
+        flex: 100%;
+    }
+
+    div.segundo-nivel .titulo h2 {
+        margin: 1em 0;
+    }
+
+    div.segundo-nivel-two:last-of-type,
+    .segundo-nivel {
+        flex: 100%;
+    }
+
+    .o2 {
+        order: 2;
+    }
+
+    .o1 {
+        order: 1;
+    }
+
+    .js {
+        margin-top: 1em;
+    }
+
+    .by {
+        display: block;
+        text-align: center;
+    }
+
+    .inferior {
+        background-color: #0097a7;
+        width: 100%;
+        height: 17.6em;
+    }
+
+    .foto {
+        bottom: 60%;
+        left: 35%;
+    }
+
+    .info-personal {
+        padding: 5em 0 0 0;
+        text-align: center;
+    }
+}

@@ -320,6 +320,7 @@ main.principal {
 
 div.primer-nivel {
     display: flex;
+    flex-wrap: wrap;
 }
 
 div.segundo-nivel {

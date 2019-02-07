@@ -16,7 +16,7 @@
         crossorigin="anonymous">
     <!-- CSS -->
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/tablet.css">
+    <link rel="stylesheet" href="css/res.css">
 </head>
 
 <body>
@@ -27,7 +27,6 @@
         <nav id="nav">
             <a href="index.php">Inicio</a>
             <a href="im.php">Sobre mi</a>
-            <!-- <a href="#" id="btn-contact">Contacto</a> -->
         </nav>
     </div>
 </header>
