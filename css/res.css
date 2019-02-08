@@ -4,34 +4,29 @@
     }
 
     .profesion {
-        font-size: 2.1em;
+        /* background-color: black; */
+        width: 100%;
+        font-size: 1.9em;
         text-align: center;
+        padding: 10px 0;
     }
 
     .mail,
     .tel {
-        margin-top: 2em;
-        padding-left: 1.5em;
+        display: flex;
+        align-items: center;
+        padding-left: 0;
     }
 
     .mail i,
+    .tel i {
+        font-size: 3em;
+        margin-right: .35em;
+    }
+
     .mail span,
-    .tel i,
     .tel span {
-        color: wheat;
-        font-size: 2em;
-        animation: opacidad 4s;
-    }
-
-    .mail i,
-    .tel i {
-        display: block;
-        margin: 0 .5em 0 .5em;
-        font-size: 1.8em;
-    }
-
-    .tel i {
-        margin-bottom: .5em;
+        font-size: 1.3em;
     }
 
     main.principal {
@@ -80,12 +75,15 @@
     }
 
     .foto {
-        bottom: 60%;
-        left: 35%;
+        bottom: 57%;
+        left: 34%;
+        height: 7em;
+        width: 7em;
     }
 
     .info-personal {
-        padding: 5em 0 0 0;
+        padding: 7em 0 0 0;
         text-align: center;
+        font-size: 1em;
     }
 }

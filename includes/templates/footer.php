@@ -2,22 +2,22 @@
 <footer class="footer">
     <div class="redes">
         <div class="facebook">
-            <a href="">
+            <a href="https://www.facebook.com/acxel.morales.167" target="_blank">
                 <i class="fab fa-facebook-f"></i>
             </a>
         </div>
         <div class="twitter">
-            <a href="">
+            <a href="https://twitter.com/acxelmorales97" target="_blank">
                 <i class="fab fa-twitter"></i>
             </a>
         </div>
         <div class="instagram">
-            <a href="">
+            <a href="https://www.instagram.com/acxel_morales97" target="_blank">
                 <i class="fab fa-instagram"></i>
             </a>
         </div>
         <div class="github">
-            <a href="">
+            <a href="https://github.com/AcxelMorales" target="_blank">
                 <i class="fab fa-github"></i>
             </a>
         </div>
