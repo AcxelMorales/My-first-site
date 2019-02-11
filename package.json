@@ -1,0 +1,14 @@
+{
+  "name": "my_site",
+  "version": "1.0.0",
+  "description": "Mi página web",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --proxy localhost/My_site --files './*.*'"
+  },
+  "author": "Acxel Morales",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}

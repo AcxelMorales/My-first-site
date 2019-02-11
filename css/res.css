@@ -1,4 +1,13 @@
 @media only screen and (max-width: 768px) {
+
+    .contenedor-hero i {
+        font-size: 1.9em;
+    }
+
+    .contenedor-hero h1 {
+        font-size: 2.2em;
+    }
+
     .info-modal {
         width: 100%;
     }
@@ -71,18 +80,20 @@
     .inferior {
         background-color: #0097a7;
         width: 100%;
-        height: 17.6em;
+        height: 14.6em;
+        padding: 0 10px;
+        font-size: 1.2em;
     }
 
     .foto {
         bottom: 57%;
-        left: 34%;
-        height: 7em;
-        width: 7em;
+        left: 36%;
+        height: 7.5em;
+        width: 7.5em;
     }
 
     .info-personal {
-        padding: 7em 0 0 0;
+        padding: 6em 0 0 0;
         text-align: center;
         font-size: 1em;
     }
