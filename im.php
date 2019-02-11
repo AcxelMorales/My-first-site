@@ -4,9 +4,9 @@
 <div class="foto"></div>
 <div class="inferior">
     <div class="info-personal">
-        Hola, mi nombre es Acxel Morales.<br>
+        <p>Hola, mi nombre es Acxel Morales.<br>
         Soy Técnico en Programación, y un apasionado de la tecnologia.<br>
-        Me fascina aprender lenguajes de programación y frameworks o librerias de JavaScript y Java
+        Me fascina aprender lenguajes de programación y frameworks o librerias de JavaScript y Java<p>
     </div>
 </div>
 

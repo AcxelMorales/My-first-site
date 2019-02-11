@@ -87,14 +87,21 @@
 
     .foto {
         bottom: 57%;
-        left: 36%;
-        height: 7.5em;
-        width: 7.5em;
+        left: 33.5%;
+        height: 8.5em;
+        width: 8.5em;
     }
 
     .info-personal {
-        padding: 6em 0 0 0;
+        padding: 5.5em 0 0 0;
         text-align: center;
         font-size: 1em;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .foto {
+        bottom: 37%;
+        left: 31.5%;
     }
 }

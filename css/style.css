@@ -113,7 +113,7 @@ h3 {
 
     .site-header nav a:hover {
         transition: all 1s;
-        background-color: var(--secundario);
+        background-color: var(white);
         color: white;
     }
 
